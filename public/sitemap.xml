@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/text/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/typography/</loc>
+    <loc>http://heartoftheearth.me/posts/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/post-5/</loc>
+    <loc>http://heartoftheearth.me/tags/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/post-1/</loc>
+    <loc>http://heartoftheearth.me/tags/typography/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url><url>
+    <loc>http://heartoftheearth.me/posts/post-5/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url><url>
+    <loc>http://heartoftheearth.me/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url><url>
+    <loc>http://heartoftheearth.me/posts/post-1/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/primer/</loc>
+    <loc>http://heartoftheearth.me/categories/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/todo/</loc>
+    <loc>http://heartoftheearth.me/tags/primer/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/categories/todo/</loc>
+    <loc>http://heartoftheearth.me/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/chapter-6/</loc>
+    <loc>http://heartoftheearth.me/categories/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://heartoftheearth.me/posts/chapter-6/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/story/</loc>
+    <loc>http://heartoftheearth.me/categories/story/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/chapter-1/</loc>
+    <loc>http://heartoftheearth.me/posts/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/scene/</loc>
+    <loc>http://heartoftheearth.me/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://heartoftheearth.me/tags/arts/</loc>
+  </url><url>
+    <loc>http://heartoftheearth.me/tags/museums/</loc>
+  </url><url>
+    <loc>http://heartoftheearth.me/tags/smk/</loc>
+  </url><url>
+    <loc>http://heartoftheearth.me/posts/chinese/</loc>
+  </url><url>
+    <loc>http://heartoftheearth.me/categories/%E7%9C%8B%E5%B1%95-exhibitions/</loc>
+  </url><url>
+    <loc>http://heartoftheearth.me/about/</loc>
   </url>
 </urlset>
