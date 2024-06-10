@@ -21,7 +21,9 @@ theme = "diary"
 [params]
 subtitle = "水也不要消失在水中。"
 enableGitalk = false
-enableGiscus = true
+enableGiscus = false
+enableUtterances = true
+favicon = "/images/goddess.png"
 
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
 clarity = "abcdefghzd"
@@ -42,10 +44,10 @@ description = "My HomePage Description"  # will set 'og:description'
    category = "categories"
 
 [params.utterances]
-repo="your repo"
-term="[ENTER TERM HERE]"
-label="your label"
-theme="github-light"
+repo = "aphrodite423/aphrodite423.github.io"
+term = "pathname"
+label = "Comment"
+theme = "github-light"
 
 # Please visit https://giscus.app/ to generate settings.
 [params.giscus]

@@ -14,6 +14,54 @@
     
     
         <item>
+        <title>關於此博客和博主</title>
+        <link>http://heartoftheearth.me/about/</link>
+        <pubDate>Wed, 08 May 2024 17:33:05 +0200</pubDate>
+        
+        <guid>http://heartoftheearth.me/about/</guid>
+        <description>維蘇威曼波 http://heartoftheearth.me/about/ -&lt;h2 id=&#34;博主其人&#34;&gt;博主其人&lt;/h2&gt;
+&lt;p&gt;名字只是一個符號。Just call me Stella. 拉丁語系中的“星辰”。 Bi+; She/Her.&lt;/p&gt;
+&lt;p&gt;北歐讀書中，長期與不穩定的精神狀態對抗並試圖達到平衡。目前正在精進寫代碼和debug技術。夢想是在歐洲成為前綴有Dr.的人，有一個自己的房間（from伍爾夫女士的名言），收養一隻暹羅貓（三花、玳瑁、狸花也行）。&lt;/p&gt;
+&lt;p&gt;會做非常成功的抹茶巴斯克，橙子重油蛋糕和胡蘿蔔蛋糕。&lt;/p&gt;
+&lt;p&gt;雜而不精的二次元與文學藝術愛好者，希望增加產出數量的同人女。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;博客由來&#34;&gt;博客由來&lt;/h2&gt;
+&lt;p&gt;起名靈感是《火山摯戀》，一部博主非常喜歡的紀錄片。火山學家的故事之於本人的意義恰如《銀翼殺手》結尾那段被無數人注目的獨白，當你我觀測過這樣的樣本，見過深淵之中巖漿令人屏息的美麗，知曉人如何憑借愛——對另一個具體的人與自然的愛——超越塵世的黯淡疲憊，便無法想象未曾見過這一切的人生。&lt;/p&gt;
+&lt;p&gt;Vesuvius，維蘇威。公元前79年，意大利那不勒斯，維蘇威火山噴發毀滅龐貝。博主所尊敬的自然地理學者亞歷山大·馮·洪堡曾三次登上這里。再就是作為古希臘羅馬文化藝術加《JOJO黃金之風》的愛好者，姑且以此名向在座致敬。&lt;/p&gt;
+&lt;p&gt;博主生長於沿海小鎮，所在的市有很大的深水港；後在滬城求學，其繁華來由自不必提；至於如今所在的哥本哈根，其丹麥語名“København”源自於舊丹麥語“Køpmannæhafn”，”商人之港“。如此算來，博主的生活無意中是從這一個港口奔赴下一個。而惠特曼恰好同樣寫過：”做一個世界的水手，遊遍所有的港口。“本博客將作為賽博世界中的一個新的港口而建立，be water的含義並非屈服，而是存在主義者持續的抗爭。&lt;/p&gt;
+&lt;p&gt;博主的時間正在從舊日的傷損中重新開始艱難地流動，正如同魔戒故事的結尾戰爭之後世界開始緩慢修復。為此博主決心持續寫作。&lt;/p&gt;
+&lt;p&gt;很高興在這段歷史記憶潰散的時間中認識諸位。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;創作內容&#34;&gt;創作內容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;讀書、觀影和音樂作品的評論。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;博物館與美術館展覽的觀看紀錄。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一些原創作品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;生活小貼士。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⋯⋯&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;運行與維護&#34;&gt;運行與維護&lt;/h2&gt;
+&lt;p&gt;本博客完全由博主本人建立，更新與維護。&lt;/p&gt;
+&lt;p&gt;目前托管於&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;平台，使用&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;生成靜態站點，在&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-diary/&#34;&gt;Diary&lt;/a&gt;主題基礎上進行細節裝修，使用會不斷增添新部件或改變布局。&lt;/p&gt;
+&lt;p&gt;發帖主要使用的語言為繁體中文，部分帖子包含使用ChatGPT4翻譯並校對的英文內容。帖子封面圖片如無特別說明，為博主本人所拍攝。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+- http://heartoftheearth.me/about/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
         <title>Typography - Test for features</title>
         <link>http://heartoftheearth.me/posts/post-5/</link>
         <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
@@ -275,8 +323,6 @@ bequeathed to the constablery, the constablery to the &lt;em&gt;maréchaussée&l
 the &lt;em&gt;maréchaussée&lt;/em&gt; to our &lt;em&gt;gendarmeri&lt;/em&gt; of Paris.&lt;/p&gt;
 - http://heartoftheearth.me/posts/chapter-1/ - This is a customized copyright.</description>
         </item>
-    
-    
     
     
     

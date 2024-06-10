@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://heartoftheearth.me/about/</loc>
+    <lastmod>2024-05-08T17:33:05+02:00</lastmod>
+  </url><url>
     <loc>http://heartoftheearth.me/posts/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
@@ -53,7 +56,5 @@
     <loc>http://heartoftheearth.me/posts/chinese/</loc>
   </url><url>
     <loc>http://heartoftheearth.me/categories/%E7%9C%8B%E5%B1%95-exhibitions/</loc>
-  </url><url>
-    <loc>http://heartoftheearth.me/about/</loc>
   </url>
 </urlset>
