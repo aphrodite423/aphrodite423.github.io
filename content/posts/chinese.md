@@ -2,9 +2,9 @@
 date: 2024-06-09 18:59
 description: 本文章采用狗屁不通文章生成器生成,无任何实际含义.
 featured_image: "/images/chinese.jpg"
-tags: [SMK, Museums, Arts]
+tags: [SMK, 博物館 · Museums, 藝術 · Arts]
 title: "丹麥國立美術館（SMK）常設作品記錄與推薦"
-categories: 看展 | Exhibitions
+categories: 看展 · Exhibitions
 ---
 
 
