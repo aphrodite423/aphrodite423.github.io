@@ -1,0 +1,18 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>維蘇威曼波</title>
+    <link>http://heartoftheearth.me/</link>
+    <description>Recent content on 維蘇威曼波</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2023-2024 司苔拉</copyright>
+    <lastBuildDate>Sun, 19 Nov 2023 01:08:38 +0100</lastBuildDate>
+    
+        <atom:link href="http://heartoftheearth.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+  </channel>
+</rss> 

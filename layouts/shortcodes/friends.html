@@ -1,0 +1,79 @@
+<div class="friend-links">
+    {{ range .Site.Data.friends.friends }}
+    <div class="friend-card">
+        <div class="friend-content">
+            <a href="{{ .url }}" target="_blank" class="friend-link">
+                <img src="{{ .avatar | absURL }}" alt="{{ .name }}" class="friend-avatar">
+            </a>
+            <div class="friend-info">
+                <div class="name">{{ .name }}</div>
+                <div class="description">{{ .description }}</div>
+                <div class="notes">{{ .notes }}</div>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+<style>
+    .friend-links {
+        display: flex;
+        flex-direction: column;  
+        align-items: center;
+    }
+
+    .friend-card {
+        width: 100%; 
+        max-width: 500px;
+        background: #fcfcfc;
+        padding: 15px;
+        margin: 10px 0;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);  /* 轻微的阴影效果 */
+        border-radius: 250px 0 0 250px;  
+    }
+
+    .friend-content {
+        display: flex;
+        align-items: center;  
+    }
+
+    .friend-link {
+        display: flex;
+        flex-direction: column;  
+        align-items: center;
+    }
+
+    .friend-avatar {
+        width: 75px;
+        height: 75px;
+        border-radius: 50% !important;
+        object-fit: cover;
+        cursor: pointer; 
+        margin-right: 15px;
+    }
+
+    .friend-info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .name {
+        font-size: 1.35rem;
+        font-weight: bold; 
+        margin: 5px 0;
+    }
+
+    .description {
+        color: #777; 
+        font-style: italic;
+        font-size: 1rem;
+        margin: 5px 0;
+    }
+
+    .notes {
+        color: #1976d2;  
+        font-size: 0.8rem;  
+        text-align: left;
+        margin: 5px 0;
+    }
+</style>
