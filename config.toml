@@ -94,7 +94,7 @@ url = "/search"
 name = "搜索 · Search"
 weight = 7
 [[menu.main]]
-url = "https://aphrodite423.github.io/moments/"
+url = "https://aphrodite423.github.io/moments"
 name = "短抄 · Moments"
 weight = 8
 
